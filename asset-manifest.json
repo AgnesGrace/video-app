@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/video-app/static/css/main.c87c7d32.css",
+    "main.js": "/video-app/static/js/main.6dd8df19.js",
+    "static/media/background.jpg": "/video-app/static/media/background.d2a4e20c35e8df62c139.jpg",
+    "index.html": "/video-app/index.html",
+    "main.c87c7d32.css.map": "/video-app/static/css/main.c87c7d32.css.map",
+    "main.6dd8df19.js.map": "/video-app/static/js/main.6dd8df19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c87c7d32.css",
+    "static/js/main.6dd8df19.js"
+  ]
+}
